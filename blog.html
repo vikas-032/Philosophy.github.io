@@ -1,1 +1,31 @@
+---
+layout: default
+title: Blog
+---
 
+<h2>Blog Posts</h2>
+
+{%- if site.posts.size > 0 -%}
+  <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in site.posts -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      <p class="post-categories">
+        Category: {{ post.categories | join: ', ' }}
+      </p>
+      <p class="post-tags">
+        Tags: {{ post.tags | join: ', ' }}
+      </p>
+      {{ post.excerpt }}
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- else -%}
+  <p>No posts yet.</p>
+{%- endif -%}

@@ -1,0 +1,17 @@
+{
+  "build": {
+    "env": {
+      "JEKYLL_ENV": "production"
+    }
+  },
+  "installCommand": "bundle install",
+  "buildCommand": "bundle exec jekyll build",
+  "outputDirectory": "_site",
+  "framework": null,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}

@@ -18,20 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vikas Kumar's Blog
+title: DevOps Nexus
 email: 7014.vikas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- My commitment revolves around creating software that positively impacts users’ lives. 
- Aiming for continuous improvement, I aspire to integrate my technical proficiency with emerging technologies 
- to craft elegant applications that enhance user experiences and drive industry advancement
+ Your gateway to mastering DevOps, Cloud Computing, and Networking. 
+ Practical guides, tutorials, and insights from a passionate developer building the future of technology. 
+ From Docker containers to network security, explore the intersection of infrastructure and code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Vikas_032
 github_username:  vikas-032
+repository: myblog03.github.io
+repository_url: "https://github.com/vikas-032/myblog03.github.io"
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
