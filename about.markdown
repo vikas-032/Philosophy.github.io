@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, I'm **Vikas Kumar** - a passionate developer and tech enthusiast based in Delhi, India. My commitment revolves around creating software that positively impacts users' lives. Aiming for continuous improvement, I aspire to integrate my technical proficiency with emerging technologies to craft elegant applications that enhance user experiences and drive industry advancement.
 
-## My Philosophy
+## My <span class="highlight">Philosophy</span>
 
 I believe that technology should serve humanity, not the other way around. My approach to software development is guided by these core principles:
 

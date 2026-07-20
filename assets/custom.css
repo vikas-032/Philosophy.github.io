@@ -1,0 +1,164 @@
+/* Dark theme with green terminal styling */
+:root {
+  --bg-color: #0d1117;
+  --text-color: #c9d1d9;
+  --green-color: #00ff41;
+  --orange-color: #ff6b35;
+  --border-color: #30363d;
+  --header-bg: #161b22;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Courier New', monospace;
+}
+
+header {
+  background-color: var(--header-bg);
+  border-bottom: 1px solid var(--border-color);
+  padding: 20px 0;
+}
+
+h1 a {
+  color: var(--green-color) !important;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  text-decoration: underline;
+}
+
+#pages a {
+  color: var(--text-color);
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+#pages a:hover {
+  color: var(--green-color);
+}
+
+h2 {
+  color: var(--green-color);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: var(--green-color);
+}
+
+a {
+  color: var(--green-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.post-meta {
+  color: #8b949e;
+  font-size: 0.9em;
+}
+
+.post-link {
+  color: var(--green-color);
+  font-size: 1.2em;
+}
+
+.post-categories, .post-tags {
+  color: #8b949e;
+  font-size: 0.85em;
+}
+
+/* Philosophy section highlighting */
+.highlight {
+  background-color: var(--orange-color);
+  color: #000;
+  padding: 2px 6px;
+  font-weight: bold;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #161b22;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  padding: 10px;
+}
+
+code {
+  color: var(--green-color);
+}
+
+/* Footer */
+footer {
+  background-color: var(--header-bg);
+  border-top: 1px solid var(--border-color);
+  padding: 20px 0;
+  margin-top: 40px;
+  text-align: center;
+}
+
+footer a {
+  color: var(--green-color);
+  margin: 0 10px;
+}
+
+/* Post list styling */
+.post-list li {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+/* Button styling */
+.btn {
+  background-color: var(--green-color);
+  color: #000;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  display: inline-block;
+  margin: 5px;
+}
+
+.btn:hover {
+  background-color: #00cc33;
+  text-decoration: none;
+}
+
+.btn-github {
+  background-color: #24292f;
+  color: #fff;
+}
+
+.btn-github:hover {
+  background-color: #3b434a;
+}
+
+/* Container */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 15px;
+  }
+  
+  #pages a {
+    display: block;
+    margin: 5px 0;
+  }
+}

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DevOps Nexus
+title: ./ Vikas Kumar's Blog
 email: 7014.vikas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Your gateway to mastering DevOps, Cloud Computing, and Networking. 
