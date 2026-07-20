@@ -31,7 +31,7 @@ github_username:  vikas-032
 repository: myblog03.github.io
 repository_url: "https://github.com/vikas-032/myblog03.github.io"
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
