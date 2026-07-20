@@ -15,3 +15,12 @@ title: Home
   </a>
 </div>
 
+<div class="pdf-folder-container">
+  <a href="/assets/pdfs/Network_Engineer_Roadmap_2026_Fresher_Guide.pdf" target="_blank" class="pdf-folder">
+    <span class="pdf-folder-icon">📁</span>
+    <div class="pdf-folder-info">
+      <span class="pdf-folder-title">Network Engineer Road Map</span>
+      <span class="pdf-folder-size">PDF Document</span>
+    </div>
+  </a>
+</div>
