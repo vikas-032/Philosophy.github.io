@@ -35,3 +35,13 @@ title: Home
     </div>
   </a>
 </div>
+
+<div class="pdf-folder-container">
+  <a href="/assets/pdfs/Git_GitHub_Version_Control_Notes.pdf" target="_blank" class="pdf-folder">
+    <span class="pdf-folder-icon">📁</span>
+    <div class="pdf-folder-info">
+      <span class="pdf-folder-title">About Github Notes </span>
+      <span class="pdf-folder-size">PDF Document</span>
+    </div>
+  </a>
+</div>
