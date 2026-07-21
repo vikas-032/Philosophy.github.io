@@ -30,7 +30,7 @@ title: Home
   <a href="/assets/pdfs/Jekyll_Notes.pdf" target="_blank" class="pdf-folder">
     <span class="pdf-folder-icon">📁</span>
     <div class="pdf-folder-info">
-      <span class="pdf-folder-title">Network Engineer Road Map</span>
+      <span class="pdf-folder-title">Jekyll-Notes</span>
       <span class="pdf-folder-size">PDF Document</span>
     </div>
   </a>
