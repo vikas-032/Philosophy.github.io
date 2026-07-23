@@ -1,11 +1,24 @@
-# Hi there ✨, I'm Vikas Kumar
+<div align="center">
+  <img src="https://github.com/vikas-032.png" alt="Vikas Kumar" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff41;">
+  
+  # Hi there ✨, I'm Vikas Kumar
+  
+  ### 🚀 DevOps Engineer | Cloud Enthusiast | Full Stack Developer
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Vikas_032)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-kumar-b40537285)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas-032)
+  
+</div>
+
+---
 
 ## 🚀 About Me
 
-A passionate developer and tech enthusiast based in Delhi, India. I'm committed to creating software that positively impacts users' lives and continuously pushing the boundaries of what's possible with code.
+A passionate developer and tech enthusiast based in **Delhi, India** 🇮🇳. I'm committed to creating software that positively impacts users' lives and continuously pushing the boundaries of what's possible with code.
 
 - 🔭 Currently working on **DevOps & Cloud Computing projects**
-- 🌱 Learning **Terraform + Kubernetes** 
+- 🌱 Learning **Terraform + Kubernetes**
 - 👯 Looking to collaborate on **Open Source DevOps projects**
 - 💬 Ask me about **Docker, Networking, Cloud Architecture**
 - ⚡ Fun fact: **I believe technology should serve humanity, not the other way around**
@@ -40,30 +53,44 @@ A passionate developer and tech enthusiast based in Delhi, India. I'm committed 
 
 ## 📊 GitHub Stats
 
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas-032&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-032&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas-032&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-032&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages">
+</div>
 
 ## 🏆 Featured Projects
 
-### [The-Preditor](https://github.com/vikas-032/The-Preditor)
+<div align="center">
+  <a href="https://github.com/vikas-032/The-Preditor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikas-032&repo=The-Preditor&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" alt="The-Preditor">
+  </a>
+  <a href="https://github.com/vikas-032/portfolio-2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikas-032&repo=portfolio-2026&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" alt="portfolio-2026">
+  </a>
+  <a href="https://github.com/vikas-032/myblog03.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikas-032&repo=myblog03.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" alt="DevOps Nexus">
+  </a>
+</div>
+
+### 📁 [The-Preditor](https://github.com/vikas-032/The-Preditor)
 **Stock Analysis with Python** - A comprehensive stock analysis project leveraging data analytics for market insights
 - 🔍 Data processing and visualization
 - 📊 Market trend analysis
 - 🐍 Python-based architecture
 
-### [portfolio-2026](https://github.com/vikas-032/portfolio-2026)
+### 📁 [portfolio-2026](https://github.com/vikas-032/portfolio-2026)
 **Modern Portfolio Website** - A responsive portfolio showcasing my work and skills
 - 💻 JavaScript development
 - 🎨 Clean, modern design
 - 📱 Fully responsive
 
-### [community-events-hub](https://github.com/vikas-032/community-events-hub)
+### 📁 [community-events-hub](https://github.com/vikas-032/community-events-hub)
 **The Heritage** - TypeScript-powered community event management platform
 - ⚡ TypeScript development
 - 🎯 Event discovery and management
 - 👥 Community-focused features
 
-### [DevOps Nexus](https://github.com/vikas-032/myblog03.github.io)
+### 📁 [DevOps Nexus](https://github.com/vikas-032/myblog03.github.io)
 **Tech Blog** - DevOps, Cloud Computing, and Networking tutorials
 - 📝 Technical articles
 - 🚀 Practical guides
@@ -71,17 +98,25 @@ A passionate developer and tech enthusiast based in Delhi, India. I'm committed 
 
 ## 🌐 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Vikas_032)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-kumar-b40537285)
-[![DEV](https://img.shields.io/badge/DEV-%230A0A0A.svg?style=for-the-badge&logo=DEV&logoColor=white)](https://dev.to/vikas032)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vikas032)
+<div align="center">
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Vikas_032)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-kumar-b40537285)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas-032)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7014.vikas@gmail.com)
+</div>
 
 ## 📈 Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas-032&theme=radical)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-032&theme=radical&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ff6b35" alt="Activity Graph">
+</div>
 
 ---
 
-⭐ **Star this repo** if you find my work helpful!
-
-📧 **Email:** [7014.vikas@gmail.com](mailto:7014.vikas@gmail.com)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikas-032&style=for-the-badge&color=00ff41" alt="Profile Views">
+  
+  ⭐ **Star this repo** if you find my work helpful!
+  
+  📧 **Email:** [7014.vikas@gmail.com](mailto:7014.vikas@gmail.com)
+</div>
