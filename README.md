@@ -1,5 +1,7 @@
 ﻿# myblog03.github.io
-
+BLOGS WITH NOTES
+New person added
+Change will appear
 A personal Jekyll blog and portfolio site for DevOps, cloud computing, and networking topics.
 
 This repository contains the source files for a static blog site powered by Jekyll, with custom styling and content focused on infrastructure, automation, and technical learning resources.
